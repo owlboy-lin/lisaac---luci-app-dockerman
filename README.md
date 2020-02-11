@@ -1,3 +1,4 @@
+原作者：https://github.com/lisaac/luci-app-dockerman.git
 # Docker Manager interface for LuCI
 
 ## 适用于 LuCI 的 Docker 管理插件
